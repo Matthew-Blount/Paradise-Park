@@ -13,9 +13,189 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-23T21:35:30.659-06:00
+  lastUpdatedAtString: 2020-02-23T21:36:08.029-06:00
   initializedAtString: 2020-02-23T21:21:50.620-06:00
   log:
+  - commitID: bd01001457b0ecc8c60821af1825ba7fba7244f1
+    mergeA: 
+    mergeB: 
+    authorName: Matthew-Blount
+    authorEmail: matthew.blount@mavs.uta.edu
+    commitEmail: matthew.blount@mavs.uta.edu
+    commitName: Matthew-Blount
+    summary: Initial Commit
+    description: Initial Commit
+    timeString: 2020-02-23T21:36:04.000-06:00
+    commitTimeString: 2020-02-23T21:36:04.000-06:00
+    changes:
+    - path: Paradise Park\Library\SourceAssetDB
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Logs\Packages-Update.log
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Logs\Packages-Update.log
+      projectPath: Logs\Packages-Update.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\Packages\manifest.json
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 42ce53366e9c21916612c6345478c75b392f9eee
     mergeA: 
     mergeB: 
