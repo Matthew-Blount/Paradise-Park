@@ -13,12 +13,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-23T21:36:08.867-06:00
-  initializedAtString: 2020-02-23T21:18:50.236-06:00
+  lastUpdatedAtString: 2020-02-28T15:22:55.754-06:00
+  initializedAtString: 2020-02-28T15:22:55.754-06:00
   entries:
+  - path: Paradise Park\Library\ArtifactDB
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Paradise Park\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Paradise Park\Library\EditorInstance.json
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Paradise Park\Library\expandedItems
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Paradise Park\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Paradise Park\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -37,6 +67,18 @@ MonoBehaviour:
   - path: Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Paradise Park\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Paradise Park\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

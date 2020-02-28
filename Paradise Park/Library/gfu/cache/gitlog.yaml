@@ -13,9 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-23T21:36:08.029-06:00
+  lastUpdatedAtString: 2020-02-23T21:37:39.306-06:00
   initializedAtString: 2020-02-23T21:21:50.620-06:00
   log:
+  - commitID: 797f9664d197d718fd27a9c0483f9b628936f9a2
+    mergeA: 
+    mergeB: 
+    authorName: Matthew-Blount
+    authorEmail: matthew.blount@mavs.uta.edu
+    commitEmail: matthew.blount@mavs.uta.edu
+    commitName: Matthew-Blount
+    summary: Initial Commit
+    description: Initial Commit
+    timeString: 2020-02-23T21:36:37.000-06:00
+    commitTimeString: 2020-02-23T21:36:37.000-06:00
+    changes:
+    - path: Paradise Park\Library\SourceAssetDB
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: bd01001457b0ecc8c60821af1825ba7fba7244f1
     mergeA: 
     mergeB: 
