@@ -13,36 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-28T15:38:31.706-06:00
+  lastUpdatedAtString: 2020-02-28T15:41:22.230-06:00
   initializedAtString: 2020-02-28T15:22:55.754-06:00
   entries:
-  - path: Paradise Park\Assets\Scripts\Something.cs
-    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Assets\Scripts\Something.cs
-    projectPath: Assets\Scripts\Something.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Paradise Park\Assets\Scripts\Something.cs.meta
-    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Assets\Scripts\Something.cs.meta
-    projectPath: Assets\Scripts\Something.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Paradise Park\Library\Artifacts\f8\f8bea1270743804c6a98592691c93eeb
-    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\Artifacts\f8\f8bea1270743804c6a98592691c93eeb
-    projectPath: Library\Artifacts\f8\f8bea1270743804c6a98592691c93eeb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Paradise Park\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Paradise Park\Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -64,18 +40,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Paradise Park\Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
+  - path: Paradise Park\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Paradise Park\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Paradise Park\Library\SourceAssetDB
     fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
