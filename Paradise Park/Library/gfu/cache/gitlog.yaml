@@ -13,9 +13,165 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-23T21:37:39.306-06:00
-  initializedAtString: 2020-02-23T21:21:50.620-06:00
+  lastUpdatedAtString: 2020-02-28T15:40:26.954-06:00
+  initializedAtString: 2020-02-28T15:28:53.520-06:00
   log:
+  - commitID: ca1c7a0e82fc5f2766290571eb92e6f7a352a45e
+    mergeA: 
+    mergeB: 
+    authorName: Matthew-Blount
+    authorEmail: matthew.blount@mavs.uta.edu
+    commitEmail: matthew.blount@mavs.uta.edu
+    commitName: Matthew-Blount
+    summary: Test
+    description: Test
+    timeString: 2020-02-28T15:38:58.000-06:00
+    commitTimeString: 2020-02-28T15:38:58.000-06:00
+    changes:
+    - path: Paradise Park\Assets\Scripts\Something.cs
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Assets\Scripts\Something.cs
+      projectPath: Assets\Scripts\Something.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\Assets\Scripts\Something.cs.meta
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Assets\Scripts\Something.cs.meta
+      projectPath: Assets\Scripts\Something.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\Library\Artifacts\f8\f8bea1270743804c6a98592691c93eeb
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\Artifacts\f8\f8bea1270743804c6a98592691c93eeb
+      projectPath: Library\Artifacts\f8\f8bea1270743804c6a98592691c93eeb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Paradise Park\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Paradise Park\Library\SourceAssetDB
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: accb453ed59bc0fcc4fc92952eed25a4d9b45278
+    mergeA: 
+    mergeB: 
+    authorName: Matthew-Blount
+    authorEmail: matthew.blount@mavs.uta.edu
+    commitEmail: matthew.blount@mavs.uta.edu
+    commitName: Matthew-Blount
+    summary: Idk
+    description: Idk
+    timeString: 2020-02-28T15:36:24.000-06:00
+    commitTimeString: 2020-02-28T15:36:24.000-06:00
+    changes:
+    - path: Paradise Park\Library\SourceAssetDB
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: ee8ca0324a300e2c0dd2c8cf675bb739dbeb9f83
+    mergeA: 
+    mergeB: 
+    authorName: Matthew-Blount
+    authorEmail: matthew.blount@mavs.uta.edu
+    commitEmail: matthew.blount@mavs.uta.edu
+    commitName: Matthew-Blount
+    summary: Added sprites
+    description: Added sprites
+    timeString: 2020-02-28T15:36:02.000-06:00
+    commitTimeString: 2020-02-28T15:36:02.000-06:00
+    changes:
+    - path: Paradise Park\Assets\Sprites.meta
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 51a5fa49653fede13e91669c48f2309485aece5e
+    mergeA: 
+    mergeB: 
+    authorName: Matthew-Blount
+    authorEmail: matthew.blount@mavs.uta.edu
+    commitEmail: matthew.blount@mavs.uta.edu
+    commitName: Matthew-Blount
+    summary: Something
+    description: Something
+    timeString: 2020-02-28T15:28:32.000-06:00
+    commitTimeString: 2020-02-28T15:28:32.000-06:00
+    changes:
+    - path: Paradise Park\Library\ArtifactDB
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\EditorInstance.json
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\SourceAssetDB
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\expandedItems
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Paradise Park\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\troub\Desktop\Paradise-Park\Paradise Park\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 797f9664d197d718fd27a9c0483f9b628936f9a2
     mergeA: 
     mergeB: 
